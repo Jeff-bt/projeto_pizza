@@ -1,0 +1,15 @@
+Quero criar uma aplicação para empresas de pizza. É algo simple e poderoso. dar uma nova experiencia para os usarios. A Aideia da tela é o seguinte
+
+interface clean com dois bloco lado direito terá o nome da pizza, descrição, ingredientes, valor do produto adicionar no carrinho.
+
+na aba direita a foto do produto grande, ou seja, a pizza. 
+
+O usuario podera a arrastar pro lado pra ver os outros sabores. e cada sabor tem um layout difente ou seja, quando troca de pizza o layout muda também
+
+na aba esquerda também quero um input para pesquisar o sabor das pizzas e um filtro pra pesquisar por categorias salgado ou doce.
+
+precisa que tenha uma tela para o usaurio ver o que ele adicionou para comprar e no fim finalizar a compra e logo será redirecionado para o whatzapp da empresa.
+
+bom o dono do software precisa cadastrar seus produtos na plataforma entao precisa ter um tela excuta para ele cadastra o produto: nome, descricao, ingredientes e imagem. certamente acho q ele vai precisar ter uma conta chamada admin então precisa de uma tela de login.
+
+se voce ahca que esqueci mais um detalhe pode adicionar.
