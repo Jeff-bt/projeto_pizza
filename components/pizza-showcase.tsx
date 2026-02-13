@@ -228,7 +228,7 @@ export function PizzaShowcase() {
         </header>
 
         {/* Search and Category Filters */}
-        <div className="px-6 md:px-12 mt-6 space-y-4">
+        <div className="px-6 md:px-12 mt-6 my-10 md:my-0 space-y-4">
           {/* Search Bar */}
           <div className="relative pointer-events-auto">
             <Search
@@ -240,7 +240,7 @@ export function PizzaShowcase() {
               placeholder="Buscar pizzas..."
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
-              className="w-full pl-12 pr-4 py-3 rounded-full text-sm font-medium transition-all"
+              className="w-full md:w-1/3 pl-12 pr-4 py-3 rounded-full text-sm font-medium transition-all"
               style={{
                 backgroundColor: `${colors.accent}10`,
                 border: `1px solid ${colors.accent}20`,
